@@ -1,4 +1,4 @@
-# windows-default-assosiation 
+# Fixed fake file type assosiation I had tested for my Windows 10 other system didnot test yet 
 
 - download default-classes-assosiation.zip 
 - run windows cmd with adminstrator  permission 
